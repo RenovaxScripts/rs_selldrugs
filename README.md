@@ -41,3 +41,18 @@ More updates coming soon!
 ![Snímek obrazovky 2025-01-11 110601](https://github.com/user-attachments/assets/3c794b8c-a0cc-493c-ab0e-5846db731918)
 ![Snímek obrazovky 2025-01-11 110456](https://github.com/user-attachments/assets/8d55d03b-09e6-40b4-be7d-2e0e1a54656c)
 
+
+
+## Recommended FiveM Hosting - RocketNode
+
+Looking for reliable hosting for your FiveM server?
+
+I personally recommend RocketNode for hosting FiveM servers running my or other scripts and resources.
+
+Get 25% OFF your FiveM server using my discount code:
+
+Code: RENOVAX
+
+Get your server here:
+https://rocketnode.us/RENOVAX
+
